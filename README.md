@@ -22,6 +22,7 @@
 
 <details>
 <summary><h2>VISUALIZATION</h2></summary>
+
 |구분|이름|설명|비고|
 |--|--|--|--|
 |1|[matplotlib](./docs/visualization/01_visualization_matplotlib_simple_korean.ipynb)|matplotlib 사용하여 시각화하기||
@@ -53,7 +54,7 @@
 <details>
 <summary><h2>QUEST</h2></summary>
 
-|구분|이름|설명|비고|
+|구분|이름|     설명      |비고|
 |--|--|--|--|
 |PANDAS|[Titanic_dataset](./docs/quests/pandas/Titanic_dataset.ipynb)|데이터프레임의 정보 확인하기|.describe()<br/>.unique()<br/>.columns|
 |PANDAS|[SpineSurgeryList](./docs/quests/pandas/SpineSurgeryList.ipynb)|연속형 데이터를 범주형 데이터로 변환하기|.astype()|
