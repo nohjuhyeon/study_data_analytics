@@ -1,6 +1,8 @@
 # study_data_analytics
 
-## PANDAS
+<details>
+<summary><h2>PANDAS</h2></summary>
+
 |구분|이름|설명|비고|
 |--|--|--|--|
 |1|[Series](./docs/pandas/01_pandas_series.ipynb)|pandas의 series에 대하여 이해하기||
@@ -16,21 +18,28 @@
 |10-1|[Data segmentation 1](./docs/pandas/10_1_pandas_usefuls.ipynb)|연속형 데이터를 범주형 데이터로 변환하기|.cut()|
 |10-2|[Data segementation 2](10_2_pandas_usefuls./docs/pandas/.ipynb)|연속형 데이터를 범주형 데이터로 변환하기||
 |11|[Data merge](./docs/pandas/10_pandas_merges.ipynb)|데이터 병합하기||
+</details>
 
-## VISUALIZATION
+<details>
+<summary><h2>VISUALIZATION</h2></summary>
 |구분|이름|설명|비고|
 |--|--|--|--|
 |1|[matplotlib](./docs/visualization/01_visualization_matplotlib_simple_korean.ipynb)|matplotlib 사용하여 시각화하기||
 |2|[series visualization](./docs/visualization/02.visualization_univariate.ipynb)|단일변수 시각화하기|countplot : 막대그래프<br/>boxplot : 데이터 분포 확인과 이상값  찾기|
 |3|[Data Frame visualization](./docs/visualization/03_visuallization_multivariate.ipynb)|다변수 시각화하기|barplot : 막대그래프<br/>boxplot : 데이터 분포 확인과 이상값 찾기<br/>scatterplot(산점도)<br/>lmplot : 산점도와 회귀선 같이 확인<br/>jointplot : 산점도와 히스토그램 같이 확인<br/>corr : 상관관계 수치로 확인<br/>pairplot : 상관관계 그래프로 확인<br/>lineplot : 선그래프|
 |4|[visualization example](./docs/visualization/04_visualization_example.ipynb)|시각화 활용 예시||
+</details>
+<details>
+<summary><h2>EDA</h2></summary>
 
-## EDA
 |구분|이름|설명|비고|
 |--|--|--|--|
 |1|[DDA & EDA example](docs/EDA/EDA_RentalCarOfContractType_together.ipynb)|DDA, EDA 과정 예시||
+</details>
 
-## CDA
+<details>
+<summary><h2>CDA</h2></summary>
+
 |구분|이름|설명|비고|
 |--|--|--|--|
 |0|[CDA flowchart](https://app.diagrams.net/#G1RhsRvUFJK5r3qpLDKXI4z3ot9JtmnmSY)|CDA 순서도||
@@ -39,10 +48,11 @@
 |3|[CDA : continuous](docs/CDA/03_CDA_RentalCarOfContractType_continuous.ipynb)|x(연속형),y(연속형) 데이터 분석|피어슨 상관 분석(pearsonr): 둘 다 정규분포인 데이터들의 상관관계 분석<br/>서열상관분석(spearman) : 하나 이상의 비정규분포를 포함한 데이터들의 상관관계 분석|
 |4|[CDA : mixed datas with unnormal data](docs/CDA/04_CDA_RentalCarOfContractType_mixed_unNormal.ipynb)|x(범주형),y(연속형 : 비정규 분포) 데이터 분석|윌콕슨 검정(ranksums) : 2개의 집단으로 구성된 범주형 데이터와 비정규분포인 연속형 데이터의 상관관계 분석<br/>kruskal test(kruskal) : 3개 이상의 집단으로 구성된 범주형 데이터와 비정규분포인 연속형 데이터의 상관관계 분석|
 |5|[CDA : mixed datas with normal data](docs/CDA/05_CDA_RentalCarOfContractType_mixed_Normal.ipynb)|x(범주형),y(연속형 : 정규 분포) 데이터 분석|levene test : 등분산 검증<br/>T-test(ttest_ind/equal_var = True) : 2개의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 등분산일 때 두 데이터의 상관관계 분석<br/>ANOVA test(f_oneway) : 3개 이상의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 등분산일 때 두 데이터의 상관관계 분석<br/>T-test(ttest_ind/equal_var = False) : 2개 이상의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 이분산일 때 두 데이터의 상관관계 분석<br/>Kruskal test(kruskal) : 3개 이상의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 이분산일 때 두 데이터의 상관관계 분석|
+</details>
 
+<details>
+<summary><h2>QUEST</h2></summary>
 
-
-## QUEST
 |구분|이름|설명|비고|
 |--|--|--|--|
 |PANDAS|[Titanic_dataset](./docs/quests/pandas/Titanic_dataset.ipynb)|데이터프레임의 정보 확인하기|.describe()<br/>.unique()<br/>.columns|
@@ -61,3 +71,4 @@
 |CDAs|[CDA_continuous](./docs/quests/CDAs/CDA_continuous.ipynb)|연속형 데이터 검증하기||
 |CDAs|[CDA_mixed_unVar](./docs/quests/CDAs/CDA_mixed_unVar.ipynb)|비정규 분포인 연속형 데이터가 포함된 데이터 검증하기||
 |CDAs|[CDA_mixed_unVar_second](./docs/quests/CDAs/CDA_mixed_unVar_second.ipynb)|비정규 분포인 연속형 데이터가 포함된 데이터 검증하기2||
+</details>
