@@ -1,6 +1,6 @@
 # study_data_analytics
 
-<details>
+<details open>
 <summary><h2>PANDAS</h2></summary>
 
 |구분|이름|설명|비고|
@@ -20,7 +20,7 @@
 |11|[Data merge](./docs/pandas/10_pandas_merges.ipynb)|데이터 병합하기||
 </details>
 
-<details>
+<details open>
 <summary><h2>VISUALIZATION</h2></summary>
 
 |구분|이름|설명|비고|
@@ -30,7 +30,8 @@
 |3|[Data Frame visualization](./docs/visualization/03_visuallization_multivariate.ipynb)|다변수 시각화하기|barplot : 막대그래프<br/>boxplot : 데이터 분포 확인과 이상값 찾기<br/>scatterplot(산점도)<br/>lmplot : 산점도와 회귀선 같이 확인<br/>jointplot : 산점도와 히스토그램 같이 확인<br/>corr : 상관관계 수치로 확인<br/>pairplot : 상관관계 그래프로 확인<br/>lineplot : 선그래프|
 |4|[visualization example](./docs/visualization/04_visualization_example.ipynb)|시각화 활용 예시||
 </details>
-<details>
+
+<details open>
 <summary><h2>EDA</h2></summary>
 
 |구분|이름|설명|비고|
@@ -38,7 +39,7 @@
 |1|[DDA & EDA example](docs/EDA/EDA_RentalCarOfContractType_together.ipynb)|DDA, EDA 과정 예시||
 </details>
 
-<details>
+<details open>
 <summary><h2>CDA</h2></summary>
 
 |구분|이름|설명|비고|
@@ -51,7 +52,7 @@
 |5|[CDA : mixed datas with normal data](docs/CDA/05_CDA_RentalCarOfContractType_mixed_Normal.ipynb)|x(범주형),y(연속형 : 정규 분포) 데이터 분석|levene test : 등분산 검증<br/>T-test(ttest_ind/equal_var = True) : 2개의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 등분산일 때 두 데이터의 상관관계 분석<br/>ANOVA test(f_oneway) : 3개 이상의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 등분산일 때 두 데이터의 상관관계 분석<br/>T-test(ttest_ind/equal_var = False) : 2개 이상의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 이분산일 때 두 데이터의 상관관계 분석<br/>Kruskal test(kruskal) : 3개 이상의 집단으로 구성된 범주형 데이터와 정규분포인 연속형 데이터가 이분산일 때 두 데이터의 상관관계 분석|
 </details>
 
-<details>
+<details open>
 <summary><h2>QUEST</h2></summary>
 
 |구분|이름|     설명      |비고|
