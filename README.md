@@ -3,12 +3,11 @@
 <details open>
 <summary>
   <h2>PANDAS</h2>
-
-  Pandas 정리 : [바로가기](https://github.com/nohjuhyeon/study_data_analytics/wiki/Pandas)
 </summary>
 
 |구분|이름|설명|비고|
 |--|--|--|--|
+|0|[정리본](https://github.com/nohjuhyeon/study_data_analytics/wiki/Pandas)|정리본|
 |1|[Series](./docs/pandas/01_pandas_series.ipynb)|pandas의 series에 대하여 이해하기||
 |2|[DataFrame](./docs/pandas/02_pandas_DataFrame_iloc.ipynb)|pandas의 Dataframe에 대하여 이해하기||
 |3-1|[Datetime](./docs/pandas/03_1_pandas_datetimes.ipynb)|날짜형 데이터 다루기||
@@ -29,6 +28,7 @@
 
 |구분|이름|설명|비고|
 |--|--|--|--|
+|0|[정리본](https://github.com/nohjuhyeon/study_data_analytics/wiki/Visualization)|정리본|
 |1|[matplotlib](./docs/visualization/01_visualization_matplotlib_simple_korean.ipynb)|matplotlib 사용하여 시각화하기||
 |2|[series visualization](./docs/visualization/02.visualization_univariate.ipynb)|단일변수 시각화하기|countplot : 막대그래프<br/>boxplot : 데이터 분포 확인과 이상값  찾기|
 |3|[Data Frame visualization](./docs/visualization/03_visuallization_multivariate.ipynb)|다변수 시각화하기|barplot : 막대그래프<br/>boxplot : 데이터 분포 확인과 이상값 찾기<br/>scatterplot(산점도)<br/>lmplot : 산점도와 회귀선 같이 확인<br/>jointplot : 산점도와 히스토그램 같이 확인<br/>corr : 상관관계 수치로 확인<br/>pairplot : 상관관계 그래프로 확인<br/>lineplot : 선그래프|
