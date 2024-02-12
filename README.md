@@ -1,7 +1,11 @@
 # study_data_analytics
 
 <details open>
-<summary><h2>PANDAS</h2></summary>
+<summary>
+  <h2>PANDAS</h2>
+
+  Pandas 정리 : [바로가기](https://github.com/nohjuhyeon/study_data_analytics/wiki/Pandas)
+</summary>
 
 |구분|이름|설명|비고|
 |--|--|--|--|
