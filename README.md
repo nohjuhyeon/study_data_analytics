@@ -66,7 +66,7 @@
 |VISUALIZATION|[multivariate Orders Delivery List](./docs/quests/visualizations/multivariate_OrdersDeliveryList.ipynb)|데이터 타입에 적절한 함수 사용하여 시각화하기|.sort_values(by=data, ascending=True/False)<br/>.reset_index(inplace=True)|
 |VISUALIZATION|[multivariate Orders Delivery Lists quest](./docs/quests/visualizations/multivariate_OrdersDeliveryLists_quest.ipynb)|데이터 필터링 연습하기|.str.slice(2,10)<br/>.str.startswith('')|
 |DDA|[dataset datatypes](./docs/quests/DDA/dataset_datatypes.md)|데이터의 데이터 타입 분석하기||
-|DDA|[extrac 5](./docs/quests/DDA/extract_5.ipynb)|범주형 데이터 시각화하기||
+|DDA|[extract 5](./docs/quests/DDA/extract_5.ipynb)|범주형 데이터 시각화하기||
 |DDA|[Spine Surgery List : datetime](./docs/quests/DDA/SpineSurgeryList_datetime.ipynb)|시간형 데이터 시각화하기||
 |DDA|[Spine Surgery List : apply](./docs/quests/DDA/SpineSurgeryList_apply.py)|시간형 데이터로 변환하기하여 새로운 column 만들기||
 |EDAs|[preprocessing : titanic train](./docs/quests/EDAs/preprocessing_titanic_train.ipynb)|전처리 연습하기||
