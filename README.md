@@ -61,20 +61,20 @@
 
 |구분|이름|     설명      |비고|
 |--|--|--|--|
-|PANDAS|[Titanic_dataset](./docs/quests/pandas/Titanic_dataset.ipynb)|데이터프레임의 정보 확인하기|.describe()<br/>.unique()<br/>.columns|
-|PANDAS|[SpineSurgeryList](./docs/quests/pandas/SpineSurgeryList.ipynb)|연속형 데이터를 범주형 데이터로 변환하기|.astype()|
-|VISUALIZATION|[multivariate_OrdersDeliveryList](./docs/quests/visualizations/multivariate_OrdersDeliveryList.ipynb)|데이터 타입에 적절한 함수 사용하여 시각화하기|.sort_values(by=data,ascending=True/False)<br/>.reset_index(inplace=True)|
-|VISUALIZATION|[multivariate_OrdersDeliveryLists_quest](./docs/quests/visualizations/multivariate_OrdersDeliveryLists_quest.ipynb)|데이터 필터링 연습하기|.str.slice(2,10)<br/>.str.startswith('')|
-|DDA|[dataset_datatypes](./docs/quests/DDA/dataset_datatypes.md)|데이터의 데이터 타입 분석하기||
-|DDA|[extract_5](./docs/quests/DDA/extract_5.ipynb)|범주형 데이터 시각화하기||
-|DDA|[SpineSurgeryList_datetime](./docs/quests/DDA/SpineSurgeryList_datetime.ipynb)|시간형 데이터 시각화하기||
-|DDA|[SpineSurgeryList_apply](./docs/quests/DDA/SpineSurgeryList_apply.py)|시간형 데이터로 변환하기하여 새로운 column 만들기||
-|EDAs|[preprocessing_titanic_train](./docs/quests/EDAs/preprocessing_titanic_train.ipynb)|전처리 연습하기||
-|EDAs|[EDA_RentalCarOfContractType](./docs/quests/EDAs/EDA_RentalCarOfContractType.ipynb)|DDA & EDA 실습|이상치, 결측치 처리하기|
-|EDAs|[EDA_ShoppingMallDeliveryWithDate](./docs/quests/EDAs/EDA_ShoppingMallDeliveryWithDate.ipynb)|DDA & EDA 실습|이상치, 결측치 처리하기 </br>연속형 데이터를 범주형 데이터로 변환하기|
-|EDAs|[EDA_kaggle_air_quality_in_covid19](./docs/quests/EDAs/EDA_kaggle_air_quality_in_covid19.ipynb)|DDA & EDA 실습|이상치, 결측치 처리하기|
-|CDAs|[CDA_categories](./docs/quests/CDAs/CDA_categories.ipynb)|범주형 데이터 검증하기||
-|CDAs|[CDA_continuous](./docs/quests/CDAs/CDA_continuous.ipynb)|연속형 데이터 검증하기||
-|CDAs|[CDA_mixed_unVar](./docs/quests/CDAs/CDA_mixed_unVar.ipynb)|비정규 분포인 연속형 데이터가 포함된 데이터 검증하기||
-|CDAs|[CDA_mixed_unVar_second](./docs/quests/CDAs/CDA_mixed_unVar_second.ipynb)|비정규 분포인 연속형 데이터가 포함된 데이터 검증하기2||
+|PANDAS|[Titanic dataset](./docs/quests/pandas/Titanic_dataset.ipynb)|데이터프레임의 정보 확인하기|.describe()<br/>.unique()<br/>.columns|
+|PANDAS|[SpineSurgery List](./docs/quests/pandas/SpineSurgeryList.ipynb)|연속형 데이터를 범주형 데이터로 변환하기|.astype()|
+|VISUALIZATION|[multivariate Orders Delivery List](./docs/quests/visualizations/multivariate_OrdersDeliveryList.ipynb)|데이터 타입에 적절한 함수 사용하여 시각화하기|.sort_values(by=data, ascending=True/False)<br/>.reset_index(inplace=True)|
+|VISUALIZATION|[multivariate Orders Delivery Lists quest](./docs/quests/visualizations/multivariate_OrdersDeliveryLists_quest.ipynb)|데이터 필터링 연습하기|.str.slice(2,10)<br/>.str.startswith('')|
+|DDA|[dataset datatypes](./docs/quests/DDA/dataset_datatypes.md)|데이터의 데이터 타입 분석하기||
+|DDA|[extrac 5](./docs/quests/DDA/extract_5.ipynb)|범주형 데이터 시각화하기||
+|DDA|[Spine Surgery List : datetime](./docs/quests/DDA/SpineSurgeryList_datetime.ipynb)|시간형 데이터 시각화하기||
+|DDA|[Spine Surgery List : apply](./docs/quests/DDA/SpineSurgeryList_apply.py)|시간형 데이터로 변환하기하여 새로운 column 만들기||
+|EDAs|[preprocessing : titanic train](./docs/quests/EDAs/preprocessing_titanic_train.ipynb)|전처리 연습하기||
+|EDAs|[EDA : Rental Car Of Contract Type](./docs/quests/EDAs/EDA_RentalCarOfContractType.ipynb)|DDA & EDA 실습|이상치, 결측치 처리하기|
+|EDAs|[EDA : Shopping Mall Delivery With Date](./docs/quests/EDAs/EDA_ShoppingMallDeliveryWithDate.ipynb)|DDA & EDA 실습|이상치, 결측치 처리하기 </br>연속형 데이터를 범주형 데이터로 변환하기|
+|EDAs|[EDA : kaggle air quality in covid19](./docs/quests/EDAs/EDA_kaggle_air_quality_in_covid19.ipynb)|DDA & EDA 실습|이상치, 결측치 처리하기|
+|CDAs|[CDA : categories](./docs/quests/CDAs/CDA_categories.ipynb)|범주형 데이터 검증하기||
+|CDAs|[CDA : continuous](./docs/quests/CDAs/CDA_continuous.ipynb)|연속형 데이터 검증하기||
+|CDAs|[CDA :  mixed unVar](./docs/quests/CDAs/CDA_mixed_unVar.ipynb)|비정규 분포인 연속형 데이터가 포함된 데이터 검증하기||
+|CDAs|[CDA : mixed unVar second](./docs/quests/CDAs/CDA_mixed_unVar_second.ipynb)|비정규 분포인 연속형 데이터가 포함된 데이터 검증하기2||
 </details>
