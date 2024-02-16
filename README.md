@@ -40,6 +40,10 @@
 
 |구분|이름|설명|비고|
 |--|--|--|--|
+|0-1|[정리본](https://github.com/nohjuhyeon/study_data_analytics/wiki/03-:-Data-Analysis)|정리본|
+|0-2|[정리본 : DDA](https://github.com/nohjuhyeon/study_data_analytics/wiki/03‐1-:-DDA)|정리본 : DDA|
+|0-3|[정리본 : EDA](https://github.com/nohjuhyeon/study_data_analytics/wiki/03‐2-:-EDA)|정리본 : EDA|
+
 |1|[DDA & EDA example](docs/EDA/EDA_RentalCarOfContractType_together.ipynb)|DDA, EDA 과정 예시||
 </details>
 
