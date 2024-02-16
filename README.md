@@ -19,7 +19,7 @@
 |8|[Preprocessing-missing values](./docs/pandas/08_pandas_preprocessing_missingvalues.ipynb)|결측치 전처리 하기||
 |9|[Preprocessing-outlier](./docs/pandas/09_pandas_preprocessing_outlier.ipynb)|이상치 전처리 하기||
 |10-1|[Data segmentation 1](./docs/pandas/10_1_pandas_usefuls.ipynb)|연속형 데이터를 범주형 데이터로 변환하기|.cut()|
-|10-2|[Data segementation 2](10_2_pandas_usefuls./docs/pandas/.ipynb)|연속형 데이터를 범주형 데이터로 변환하기||
+|10-2|[Data segementation 2 & excel read](10_2_pandas_usefuls./docs/pandas/.ipynb)|연속형 데이터를 범주형 데이터로 변환하기<br>excel 파일 가져오기||
 |11|[Data merge](./docs/pandas/10_pandas_merges.ipynb)|데이터 병합하기||
 </details>
 
