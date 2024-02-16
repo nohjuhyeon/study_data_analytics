@@ -43,7 +43,6 @@
 |0-1|[정리본](https://github.com/nohjuhyeon/study_data_analytics/wiki/03-:-Data-Analysis)|정리본|
 |0-2|[정리본 : DDA](https://github.com/nohjuhyeon/study_data_analytics/wiki/03‐1-:-DDA)|정리본 : DDA|
 |0-3|[정리본 : EDA](https://github.com/nohjuhyeon/study_data_analytics/wiki/03‐2-:-EDA)|정리본 : EDA|
-
 |1|[DDA & EDA example](docs/EDA/EDA_RentalCarOfContractType_together.ipynb)|DDA, EDA 과정 예시||
 </details>
 
@@ -52,7 +51,8 @@
 
 |구분|이름|설명|비고|
 |--|--|--|--|
-|0|[CDA flowchart](https://app.diagrams.net/#G1RhsRvUFJK5r3qpLDKXI4z3ot9JtmnmSY)|CDA 순서도||
+|0-1|[정리본 : CDA](https://github.com/nohjuhyeon/study_data_analytics/wiki/03‐3-:-CDA)|정리본 : EDA|
+|0-2|[CDA flowchart](https://app.diagrams.net/#G1RhsRvUFJK5r3qpLDKXI4z3ot9JtmnmSY)|CDA 순서도||
 |1|[CDA : Categories](docs/CDA/01_CDA_RentalCarOfContractType_categories.ipynb)|x(범주형),y(범주형) 데이터 분석|카이제곱 검정(chi2_contingency) : 두 범주형 데이터의 독립성 증명|
 |2|[CDA : Normality test](docs/CDA/02_CDA_RentalCarOfContractType_univariate.ipynb)|연속형 데이터의 정규성 검정|anderson normality test(anderson) : 레코드가 5000개 이상인 데이터의 정규성 검정 <br/>shapiro normality test(shapiro) : 레코드가 5천개 미만인 데이터의 정규성 검정|
 |3|[CDA : continuous](docs/CDA/03_CDA_RentalCarOfContractType_continuous.ipynb)|x(연속형),y(연속형) 데이터 분석|피어슨 상관 분석(pearsonr): 둘 다 정규분포인 데이터들의 상관관계 분석<br/>서열상관분석(spearman) : 하나 이상의 비정규분포를 포함한 데이터들의 상관관계 분석|
